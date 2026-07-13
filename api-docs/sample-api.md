@@ -1,4 +1,7 @@
-# TaskFlow API Reference  Base URL: https://api.taskflow.io/v1 Authentication: Bearer token in Authorization header  --- 
+# TaskFlow API Reference 
+---
+ Base URL: https://api.taskflow.io/v1 Authentication: Bearer token in Authorization header 
+--- 
 | Parameter | Type | Required | Description |
 | --- | --- | --- | --- |
 | title | string | Yes | Task title (max 255 characters) |
