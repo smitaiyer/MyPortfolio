@@ -3,5 +3,5 @@
 API/Integration Documentation | Jira-to-Docs Workflow | Critical Review of Technical Source Material |
 Cross-Functional Collaboration (Product, Dev, QA, Support, CS) | Content Gap Analysis | Docs-as-Code (Git + Markdown) | DITA/XML Structured Authoring | AI-Assisted Content Workflows | Agile & Sprint Delivery
 | Global Remote-First Team Collaboration 
-**Samples:** [API Reference](./api-docs/sample-api.md) | [Getting Started Guide](./product-docs/getting-started.md) 
+**Samples:** [API Reference](./api-docs/sample-api.md) | [Getting Started Guide](./product-docs/getting-started.md) | [Test](./product-docs/test.md)
 **Contact:**  smita_8478@hotmail.com | [LinkedIn](https://linkedin.com/in/smitaiyer/)
